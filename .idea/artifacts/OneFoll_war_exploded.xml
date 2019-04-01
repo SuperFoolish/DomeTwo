@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="OneFoll:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/OneFoll_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="OneFoll/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="OneFoll" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
